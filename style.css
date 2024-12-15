@@ -1,0 +1,457 @@
+.slide {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.slide .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 6831px;
+  position: relative;
+}
+
+.slide .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 1769px;
+  top: 5062px;
+  left: 0;
+}
+
+.slide .overlap-group {
+  position: absolute;
+  width: 1920px;
+  height: 1769px;
+  top: 0;
+  left: 0;
+}
+
+.slide .line {
+  width: 1418px;
+  top: 214px;
+  left: 502px;
+  object-fit: cover;
+  position: absolute;
+  height: 1px;
+}
+
+.slide .img {
+  position: absolute;
+  width: 1920px;
+  height: 1280px;
+  top: 489px;
+  left: 0;
+  object-fit: cover;
+}
+
+.slide .element {
+  position: absolute;
+  width: 832px;
+  height: 966px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.slide .element-g-g {
+  position: absolute;
+  width: 670px;
+  top: 247px;
+  left: 1042px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 60px;
+}
+
+.slide .text {
+  position: absolute;
+  top: 1539px;
+  left: 795px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper {
+  position: absolute;
+  top: 115px;
+  left: 1035px;
+  font-family: "Inter-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.slide .overlap-2 {
+  position: absolute;
+  width: 1920px;
+  height: 1523px;
+  top: 3390px;
+  left: 0;
+}
+
+.slide .overlap-3 {
+  position: absolute;
+  width: 1920px;
+  height: 1523px;
+  top: 0;
+  left: 0;
+}
+
+.slide .grilled-pork-served {
+  position: absolute;
+  width: 1920px;
+  height: 880px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.slide .line-2 {
+  width: 1237px;
+  top: 1073px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  height: 1px;
+}
+
+.slide .element-2 {
+  position: absolute;
+  width: 705px;
+  height: 899px;
+  top: 624px;
+  left: 1035px;
+  object-fit: cover;
+}
+
+.slide .p {
+  position: absolute;
+  width: 466px;
+  top: 493px;
+  left: 1237px;
+  font-family: "Noto Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 27.2px;
+}
+
+.slide .text-wrapper-2 {
+  position: absolute;
+  top: 956px;
+  left: 295px;
+  font-family: "Noto Sans-DisplayBold Italic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-3 {
+  position: absolute;
+  width: 549px;
+  top: 1121px;
+  left: 295px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 1.19px;
+  line-height: 27.2px;
+}
+
+.slide .element-3 {
+  position: absolute;
+  top: 1248px;
+  left: 295px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 1.19px;
+  line-height: 27.2px;
+}
+
+.slide .overlap-4 {
+  position: absolute;
+  width: 1920px;
+  height: 1516px;
+  top: 0;
+  left: 0;
+}
+
+.slide .element-4 {
+  position: absolute;
+  width: 1920px;
+  height: 888px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.slide .line-3 {
+  width: 1326px;
+  top: 1027px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  height: 1px;
+}
+
+.slide .group {
+  position: absolute;
+  width: 811px;
+  height: 427px;
+  top: 439px;
+  left: 554px;
+}
+
+.slide .rectangle {
+  width: 260px;
+  left: 0;
+  border-radius: 130px 130px 0px 0px;
+  background: linear-gradient(
+    180deg,
+    rgb(198.52, 255, 163.41) 0%,
+    rgba(224.5, 255, 205.54, 0.5) 46%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  position: absolute;
+  height: 427px;
+  top: 0;
+}
+
+.slide .rectangle-2 {
+  width: 259px;
+  left: 276px;
+  border-radius: 129.5px 129.5px 0px 0px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 244.39, 95.84) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  position: absolute;
+  height: 427px;
+  top: 0;
+}
+
+.slide .rectangle-3 {
+  width: 260px;
+  left: 551px;
+  border-radius: 130px 130px 0px 0px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 193.64, 79.69) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  position: absolute;
+  height: 427px;
+  top: 0;
+}
+
+.slide .text-wrapper-4 {
+  position: absolute;
+  width: 1314px;
+  top: 300px;
+  left: 302px;
+  font-family: "Noto Sans-DisplayExtraBold Italic", Helvetica;
+  font-weight: 800;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.slide .element-5 {
+  position: absolute;
+  width: 555px;
+  height: 813px;
+  top: 703px;
+  left: 1211px;
+  object-fit: cover;
+}
+
+.slide .text-wrapper-5 {
+  position: absolute;
+  top: 917px;
+  left: 304px;
+  font-family: "Noto Sans-DisplayBold Italic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.slide .overlap-5 {
+  position: absolute;
+  width: 895px;
+  height: 388px;
+  top: 1089px;
+  left: 304px;
+}
+
+.slide .element-kg {
+  position: absolute;
+  width: 731px;
+  top: 0;
+  left: 0;
+  font-family: "Noto Sans-DisplayRegular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: -1.12px;
+  line-height: 25.6px;
+}
+
+.slide .group-2 {
+  position: absolute;
+  width: 895px;
+  height: 296px;
+  top: 92px;
+  left: 0;
+}
+
+.slide .overlap-6 {
+  position: absolute;
+  width: 1920px;
+  height: 1731px;
+  top: 1588px;
+  left: 0;
+}
+
+.slide .overlap-7 {
+  position: absolute;
+  width: 1920px;
+  height: 1731px;
+  top: 0;
+  left: 0;
+}
+
+.slide .line-4 {
+  width: 1312px;
+  top: 1109px;
+  left: 608px;
+  position: absolute;
+  height: 1px;
+}
+
+.slide .closeup-food-staple {
+  position: absolute;
+  width: 1920px;
+  height: 939px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.slide .element-6 {
+  position: absolute;
+  width: 618px;
+  height: 927px;
+  top: 804px;
+  left: 299px;
+  object-fit: cover;
+}
+
+.slide .text-wrapper-6 {
+  position: absolute;
+  top: 1000px;
+  left: 888px;
+  font-family: "Noto Sans-DisplayBold Italic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-7 {
+  position: absolute;
+  width: 368px;
+  top: 1156px;
+  left: 887px;
+  font-family: "Noto Rashi Hebrew-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 1.19px;
+  line-height: 27.2px;
+}
+
+.slide .text-wrapper-8 {
+  position: absolute;
+  width: 354px;
+  top: 1356px;
+  left: 894px;
+  font-family: "Noto Rashi Hebrew-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 1.19px;
+  line-height: 27.2px;
+}
+
+.slide .text-wrapper-9 {
+  position: absolute;
+  width: 446px;
+  top: 248px;
+  left: 326px;
+  font-family: "Noto Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 27.2px;
+}
+
+.slide .text-wrapper-10 {
+  position: absolute;
+  top: 1506px;
+  left: 976px;
+  font-family: "Noto Rashi Hebrew-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 1.19px;
+  line-height: 27.2px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-11 {
+  position: absolute;
+  width: 368px;
+  top: 1243px;
+  left: 1346px;
+  font-family: "Noto Rashi Hebrew-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  letter-spacing: 1.19px;
+  line-height: 27.2px;
+}

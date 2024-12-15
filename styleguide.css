@@ -1,0 +1,4 @@
+:root {
+  —variable-collection-color: rgba(85, 52, 0, 1);
+  —variable-collection-color-2: var(—variable-collection-color);
+}
